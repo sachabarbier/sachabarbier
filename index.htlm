@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Site vitrine Sacha Barbier</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free HTML Templates" name="keywords">
+    <meta content="Free HTML Templates" name="description">
+
+    <!-- Favicon -->
+    <link href="img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet"> 
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="51">
+    <!-- Navbar Start -->
+    <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
+        <a href="index.html" class="navbar-brand ml-lg-3">
+            <h1 class="m-0 display-5"><span class="text-primary">Barbier</span> Sacha</h1>
+        </a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse px-lg-3" id="navbarCollapse">
+            <div class="navbar-nav m-auto py-0">
+                <a href="#home" class="nav-item nav-link active">Accueil</a>
+                <a href="#about" class="nav-item nav-link">A propos</a>
+                <a href="#qualification" class="nav-item nav-link">Formation</a>
+                <a href="#skill" class="nav-item nav-link">Compétences</a>
+                <a href="#service" class="nav-item nav-link">Intérêts</a>
+                <a href="#portfolio" class="nav-item nav-link">Portfolio</a>	
+                <a href="#testimonial" class="nav-item nav-link">Contact</a>
+               </div>
+           
+        </div>
+    </nav>
+    <!-- Navbar End -->
+
+
+
+
+
+    <!-- Header Start -->
+    <div class="container-fluid bg-primary d-flex align-items-center mb-5 py-5" id="home" style="min-height: 70vh;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-5 px-5 pl-lg-0 pb-5 pb-lg-0">
+				<img class="img-fluid w-80 rounded-circle shadow-sm" src="img/MOI.png" alt="">
+				</div>
+                <div class="col-lg-7 text-center text-lg-left">
+                    <h3 class="text-white font-weight-normal mb-3"></h3>
+                    <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff;">Sacha Barbier</h1>
+                    <h1 class="typed-text-output d-inline font-weight-lighter text-white"></h1>
+                    <div class="typed-text d-none">Etudiante en BUT Techniques de Commercialisation, Parcours marketing digital e-business entreprenariat</div>
+                    <div class="d-flex align-items-center justify-content-center justify-content-lg-start pt-5">
+                      						
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Header End -->
+
+
+    <!-- About Start -->
+    <div class="container-fluid py-5" id="about">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #d4e9fd;">A propos</h1>
+                <h1 class="position-absolute text-uppercase text-primary">A propos de moi</h1>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-5 pb-4 pb-lg-5">
+                    <video src="img/vidéo.mp4" width=450    height=290 controls poster="img/image.png">
+						Désolée, cette vidéo ne peut être affichée sur votre navigateur Internet.<br>
+						</a> .</video>
+                </div>
+                <div class="col-lg-7">
+                    <h3 class="mb-4">Etudiante en Techniques de commercialisation</h3>
+                    <p>Suite à l'obtention de mon bac général spécialité Sciences économiques et sociales et Anglais LLCER, j'ai intégré l’IUT de Montpellier-Sète afin de suivre une formation BUT Techniques de Commercialisation. Actuellement étudiante en 2ème année, je me suis spécialisée dans le parcours marketing digital, e-business et entrepreneuriat. Ce dernier me permettant de faire de l'alternance en 3ème année.</p>
+					<p> Actuellement à la recherche d'un stage de 2 mois du 7 avril au 31 mai 2025, je suis une jeune femme dynamique et curieuse qui aime autant apprendre et decouvrir de nouvelles choses que de les partager à ceux que cela interresse. Autonome avec l’esprit d’équipe, je sais gérer mon temps afin de réaliser en temps et en heure ce que l'on me demande de faire. Enfin, étant une personne à l'écoute et créative, j'aime créer de nouveaux projets en mélangeant mes idées avec celles des autres, afin que ces derniers soient optimaux. 
+
+                    <div class="row mb-3">
+                        <div class="col-sm-6 py-2"><h6>Nom: <span class="text-secondary">Sacha BARBIER</span></h6></div>
+                        <div class="col-sm-6 py-2"><h6>Date de naissance: <span class="text-secondary">18 août 2005</span></h6></div>
+						<a href="CV.pdf"class="col-sm-6 py-2">Télécharger mon CV</a>
+						<a href="LM.pdf"class="col-sm-6 py-2">Télécharger ma lettre de motivation</a>
+																
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+
+    <!-- Qualification Start -->
+    <div class="container-fluid py-5" id="qualification">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #d4e9fd;">Formation</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Formations & Expericences</h1>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <h3 class="mb-4">Mes formations</h3>
+                    <div class="border-left border-primary pt-2 pl-4 ml-2">
+                        <div class="position-relative mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
+                            <h5 class="font-weight-bold mb-1">2024 : BUT Techniques de Commercialisation</h5>
+                            <p class="mb-2"><strong> IUT Montpellier, France</strong> | <small>2023 - 2025</small></p>
+                            <p> Marketing digital, e-business et entreprenariat, Option Sport</p>
+                        </div>
+                        <div class="position-relative mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
+                            <h5 class="font-weight-bold mb-1">2023 : Bac général mention bien</h5>
+                            <p class="mb-2"><strong>Lycée Victor-Hugo, Lunel</strong> | <small>Juin 2023</small></p>
+                            <p>Anglais et Sciences économiques et sociales, Option Mathématiques et Latin</p>
+                        </div>
+                        <div class="position-relative mb-4">
+								
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <h3 class="mb-4">Mes expericences</h3>
+                    <div class="border-left border-primary pt-2 pl-4 ml-2">
+                        <div class="position-relative mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
+                            <h5 class="font-weight-bold mb-1">2023 (2 semaines) : Agent immobilier</h5>
+                            <p class="mb-2"><strong>Stéphane Plaza, Castries</strong> | <small>Décembre 2023</small></p>
+                            <p>Mission : estimations, visites, ventes (signature), </p>
+                        </div>
+                        <div class="position-relative mb-4">
+                            <i class="far fa-dot-circle text-primary position-absolute" style="top: 2px; left: -32px;"></i>
+                            <h5 class="font-weight-bold mb-1">2019 (1 semaine) : Vendeuse/préparatrice de commandes</h5>
+                            <p class="mb-2"><strong>Chocolaterie du Blason, Saint-Aunès</strong> | <small>Décembre 2019</small></p>
+                            <p>Mission : Préparation et vente des produits(conseil, caisse, facing, ...)</p>     
+                        </div>
+                        <div class="position-relative mb-4">
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Qualification End -->
+
+
+    <!-- Skill Start -->
+    <div class="container-fluid py-5" id="skill">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #d4e9fd;">Compétences</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Mes compétences</h1>
+            </div>
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="skill mb-4">
+                        <div class="d-flex justify-content-between">
+                            <h6 class="font-weight-bold">Suite Microsoft</h6>
+                            <h6 class="font-weight-bold">85%</h6>
+                        </div>
+                        <div class="progress">
+                            <div class="progress-bar bg-primary" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
+                    <div class="skill mb-4">
+                        <div class="d-flex justify-content-between">
+                            <h6 class="font-weight-bold">Krita : édition et retouche d’image, GIMP, ...</h6>
+                            <h6 class="font-weight-bold">90%</h6>
+                        </div>
+                        <div class="progress">
+                            <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
+                    <div class="skill mb-4">
+                        <div class="d-flex justify-content-between">
+                            <h6 class="font-weight-bold">Vente (prospection, négociation, ...)</h6>
+                            <h6 class="font-weight-bold">85%</h6>
+                        </div>
+                        <div class="progress">
+                            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+							</div>
+                    </div>
+                    <div class="skill mb-4">
+                        <div class="d-flex justify-content-between">
+                            <h6 class="font-weight-bold">Création et innovation (6 chapeau de bono, persona, ...)</h6>
+                            <h6 class="font-weight-bold">90%</h6>
+                        </div>
+                        <div class="progress">
+                            <div class="progress-bar bg-dark" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="skill mb-4">
+                        <div class="d-flex justify-content-between">
+                            <h6 class="font-weight-bold">Instagram, Facebook, TikTok, Youtube...</h6>
+                            <h6 class="font-weight-bold">95%</h6>
+                        </div>
+                        <div class="progress">
+                            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
+                    <div class="skill mb-4">
+                        <div class="d-flex justify-content-between">
+                            <h6 class="font-weight-bold">Canva</h6>
+                            <h6 class="font-weight-bold">85%</h6>
+                        </div>
+                        <div class="progress">
+                            <div class="progress-bar bg-dark" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
+                    <div class="skill mb-4">
+                        <div class="d-flex justify-content-between">
+                            <h6 class="font-weight-bold">Marketing (Etude de marché, Mix marketing, ...)</h6>
+                            <h6 class="font-weight-bold">85%</h6>
+                        </div>
+                        <div class="progress">
+                            <div class="progress-bar bg-info" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+						</div>
+					</div>
+                    <div class="skill mb-4">
+                        <div class="d-flex justify-content-between">
+                            <h6 class="font-weight-bold">Communication (Création de supports, site internet, ...)</h6>
+                            <h6 class="font-weight-bold">95%</h6>
+                        </div>
+                        <div class="progress">
+                            <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Skill End -->
+
+
+    <!-- Services Start -->
+    <div class="container-fluid pt-5" id="service">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #d4e9fd;">Intérêts</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Mes centres d'intérêt</h1>
+            </div>
+            <div class="row pb-3">
+                <div class="col-lg-4 col-md-6 text-center mb-5">
+                    <div class="d-flex align-items-center justify-content-center mb-4">
+                        <i class="fa fa-2x fa-laptop service-icon bg-primary text-white mr-3"></i>
+                        <h4 class="font-weight-bold m-0">Musique</h4>
+                    </div>
+                    <p>J'ai pris des cours de batterie pendant 5ans et j'aime faire du piano et de la guitare lorsque j'ai du temps libre.</p>
+                    
+                </div>
+                <div class="col-lg-4 col-md-6 text-center mb-5">
+                    <div class="d-flex align-items-center justify-content-center mb-4">
+                        <i class="fa fa-2x fa-laptop-code service-icon bg-primary text-white mr-3"></i>
+                        <h4 class="font-weight-bold m-0">Sport</h4>
+                    </div>
+                    <p>J'ai pratiqué le tennis pendant 7ans et cela fait 3ans que je fait du badminton. De plus, j'ai participé à des compétitions de rubik's cube.</p>
+                    
+                </div>
+                <div class="col-lg-4 col-md-6 text-center mb-5">
+                    <div class="d-flex align-items-center justify-content-center mb-4">
+                        <i class="fab fa-2x fa-android service-icon bg-primary text-white mr-3"></i>
+                        <h4 class="font-weight-bold m-0">Voyages</h4>
+                    </div>
+                    <p>J'ai eu la chance de pouvoir aller aux Etats-Unis, au Canada, en Espagne, en Irelande mais aussi au Portugal et en Guadeloupe.</p>
+                    
+                </div>
+                <div class="col-lg-4 col-md-6 text-center mb-5">
+                    <div class="d-flex align-items-center justify-content-center mb-4">
+                        <i class="fab fa-2x fa-apple service-icon bg-primary text-white mr-3"></i>
+                        <h4 class="font-weight-bold m-0">Dessin</h4>
+                    </div>
+                    <p>Pendant mon temps libre, je dessine beaucoup, que ce soit sur support papier ou sur support numérique.</p>
+                    
+                </div>
+                <div class="col-lg-4 col-md-6 text-center mb-5">
+                    <div class="d-flex align-items-center justify-content-center mb-4">
+                        <i class="fa fa-2x fa-search service-icon bg-primary text-white mr-3"></i>
+                        <h4 class="font-weight-bold m-0">Association</h4>
+                    </div>
+                    <p>Depuis de nombreuses années, je suis membre d'une association de défense des traditions occitanes.</p>
+                    
+                </div>
+				<div class="col-lg-4 col-md-6 text-center mb-5">
+                    <div class="d-flex align-items-center justify-content-center mb-4">
+                        <i class="fa fa-2x fa-search service-icon bg-primary text-white mr-3"></i>
+                        <h4 class="font-weight-bold m-0">Langues</h4>
+                    </div>
+                    <p>J'aime beaucoup apprendre de nouvelles lanques et découvrir les cultures.En ce moment je me concentre sur la Corée du Sud et sa langue.</p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Services End -->
+
+
+    <!-- Portfolio Start -->
+    <div class="container-fluid pt-5 pb-3" id="portfolio">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #d4e9fd;">Portfolio</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Mon Portfolio</h1>
+            </div>
+            <div class="row">
+                <div class="col-12 text-center mb-2">
+                    <ul class="list-inline mb-4" id="portfolio-flters">
+                        <li class="btn btn-sm btn-outline-primary m-1 active"  data-filter="*">Tous mes projets</li>
+                        <li class="btn btn-sm btn-outline-primary m-1" data-filter=".first">Excel</li>
+                        <li class="btn btn-sm btn-outline-primary m-1" data-filter=".second">Canva</li>
+                        <li class="btn btn-sm btn-outline-primary m-1" data-filter=".third">Gimp</li>
+						<li class="btn btn-sm btn-outline-primary m-1" data-filter=".fourth">Projet Web HTML CSS</li>
+						<li class="btn btn-sm btn-outline-primary m-1" data-filter=".fifth">Actions réalisées en SAE</li>
+						<li class="btn btn-sm btn-outline-primary m-1" data-filter=".sixth">Stages</li>
+						<li class="btn btn-sm btn-outline-primary m-1" data-filter=".seventh">Perso</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row portfolio-container">
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid rounded w-100" src="img/Excel-.jpg" alt="">
+                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                            <a href="img/Excel.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+						    </a>
+                        </div>
+                    </div>
+					Voici un tableau croisé dynamique que j'ai pu réaliser en cours d'informatique en 2ème année
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid rounded w-100" src="img/Canva-.png" alt="">
+                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                            <a href="img/Canva.png" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                            </a>
+                        </div>
+                    </div>
+					Ci-dessus, une affiche réalisée sur canva pour un film que l'on devait inventer en cours d'anglais
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid rounded w-100" src="img/Canva 2-.jpg" alt="">
+                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                            <a href="img/Canva 2.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                            </a>
+                        </div>
+                    </div>
+					Ici, une modification d'une affiche du festival "Coachella" de 2024 faite en Projet Professionnel
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid rounded w-100" src="img/gimp-.jpg" alt="">
+                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                            <a href="img/gimp.jpg" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                            </a>
+                        </div>
+                    </div>
+					Ceci est une image GIMP faite grâce à l'effet mirroir disponible sur l'application
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item fourth">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid rounded w-100" src="img/HTLM-.png" alt="">
+                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                            <a href="img/HTLM.png" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+								 </a>
+                        </div>
+                    </div>
+					Voici un extrait du code HTLM de la page sur laquelle vous vous trouvez en ce moment 
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item fourth">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid rounded w-100" src="img/HTLM 2-.png" alt="">
+                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                            <a href="img/HTLM 2.png" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                            
+                            </a>
+                        </div>
+                    </div>
+					Et voici un extrait du code CSS qui accompagne la page HTLM qui se trouve juste avant
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item fifth">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid rounded w-100" src="img/sae 2-.png" alt="">
+                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                            <a href="img/sae 2.png" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+								 
+                            </a>
+                        </div>
+                    </div>
+					Ici un tableau faisant partie de l'analyse du marché de la Red Bull, réalisé afin d'imaginer un nouveau produit pour la marque
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item sixth">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid rounded w-100" src="img/Stage 2-.png" alt="">
+                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                            <a href="img/Stage 2.png" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                            </a>
+                        </div>
+                    </div>
+					Ci-dessus, un extrait de mon rapport de stage de 1ère année expliquant les différences remarquées entre les méthodes et la pratique
+                </div>
+                <div class="col-lg-4 col-md-6 mb-4 portfolio-item seventh">
+                    <div class="position-relative overflow-hidden mb-2">
+                        <img class="img-fluid rounded w-100" src="img/Perso-.png" alt="">
+                        <div class="portfolio-btn bg-primary d-flex align-items-center justify-content-center">
+                            <a href="img/Perso.png" data-lightbox="portfolio">
+                                <i class="fa fa-plus text-white" style="font-size: 60px;"></i>
+                           </a>
+                        </div>						
+                    </div>
+					Voici un de mess projet en cours représentant un personnage inventé et dessiné dans le style de la série Netflix "Arcane
+                </div>				
+            </div>			
+        </div>		
+    </div>
+    <!-- Portfolio End -->
+
+
+
+    <!-- Testimonial Start -->
+    <div class="container-fluid py-5" id="testimonial">
+        <div class="container">
+            <div class="position-relative d-flex align-items-center justify-content-center">
+                <h1 class="display-1 text-uppercase text-white" style="-webkit-text-stroke: 1px #d4e9fd;">Contact</h1>
+                <h1 class="position-absolute text-uppercase text-primary">Contactez-moi</h1></div>
+            <div class="row align-items-center">
+                <div class="col-lg-5 pb-4 pb-lg-0">
+                  <iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=70%25&amp;height=400&amp;hl=en&amp;q=99%20avenue%20occitanie%20montpellier+(My%20Business%20Name)&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps tracker sport</a></iframe></div>     
+                <div class="col-lg-7">                    
+                    <div class="row mb-3">
+                        <div class="col-sm-6 py-2"><h6>Téléphone: <span class="text-secondary">06 62 11 89 11</span></h6></div>
+                        <div class="col-sm-6 py-2"><h6>Email: <span class="text-secondary">barbersach@gmail.com</span></h6></div>
+                        <div class="col-sm-6 py-2"><h6>Adresse: <span class="text-secondary">34160, Sussargues</span></h6></div>
+                        <div class="col-sm-6 py-2"><h6>Disponible: <span class="text-secondary">Oui</span></h6></div>
+						<div class="col-sm-6 py-2"><h6> <a href="https://www.linkedin.com/in/sacha-barbier-1a59b32a4/" title="infos sur la matière RCN">Mon linkedin</a> </div>
+                        		
+					</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Testimonial End -->
+
+    <!-- Footer Start -->
+    <div class="container-fluid bg-primary text-white mt-5 py-5 px-sm-3 px-md-5">
+        <div class="container text-center py-5">
+            <div class="d-flex justify-content-center mb-4">
+             
+            </div>
+            <div class="d-flex justify-content-center mb-3">
+                <a class="text-white" href="#">Privacy</a>
+                <span class="px-3">|</span>
+                <a class="text-white" href="#">Terms</a>
+                <span class="px-3">|</span>
+                <a class="text-white" href="#">FAQs</a>
+                <span class="px-3">|</span>
+                <a class="text-white" href="#">Help</a>
+            </div>
+            <p class="m-0">&copy; <a class="text-white font-weight-bold" href="#">Domain Name</a>. All Rights Reserved. Designed by <a class="text-white font-weight-bold" href="https://htmlcodex.com">HTML Codex</a>
+            </p>
+        </div>
+    </div>
+    <!-- Footer End -->
+
+    <!-- Scroll to Bottom -->
+    <i class="fa fa-2x fa-angle-down text-white scroll-to-bottom"></i>
+
+    <!-- Back to Top -->
+    <a href="#" class="btn btn-outline-dark px-0 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/typed/typed.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+
+    <!-- Contact Javascript File -->
+    <script src="mail/jqBootstrapValidation.min.js"></script>
+    <script src="mail/contact.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
+</body>
+
+</html>
